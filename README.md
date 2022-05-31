@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @platoalex
-- 👀 I’m interested in data analytics and business intelligence 
-- 🌱 I’m currently learning data analytics with google
-- 💞️ I’m looking to collaborate on any energy data analysis projects 
+- 👀 I’m a google certified data analyst and business intelligence enthusiast
+- 🌱 I’m currently honning my skills on writing advanced python scripts and advanced sql scripts
+- 💞️ I’m looking to collaborate on any energy data analysis projects and government championed projects
 - 📫 How to reach me: alex.akaolisah@gmail.com
 
 <!---
