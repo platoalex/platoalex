@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @platoalex
-- 👀 I’m a google certified data analyst and business intelligence enthusiast
+- 👋 Hi, I’m Alex Akaolisah
+- 👀 I’m a process engineer that pivoted to Data analysis. I have a knack for drawing insights from data 
 - 🌱 I’m currently honning my skills on writing advanced python scripts and advanced sql scripts
-- 💞️ I’m looking to collaborate on any energy data analysis projects and government championed projects
+- 💞️ I’m looking to collaborate on any energy data analysis projects as well as people analytics projects
 - 📫 How to reach me: alex.akaolisah@gmail.com
 
 <!---
